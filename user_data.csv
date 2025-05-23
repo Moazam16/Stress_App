@@ -1,0 +1,17 @@
+question1,question2,question3,combined_text,predicted_label,predicted_prob,timestamp
+i am feeling sad ,"yes, my exams are coming i am not prepared ",about my exam,"i am feeling sad  yes, my exams are coming i am not prepared  about my exam",1,0.6056338961171278,2025-05-22 16:12:57
+"relaxe
+",no,project,"relaxe
+ no project",0,0.35953030744504555,2025-05-22 16:16:13
+i feel pain in my leg recently but now i am fine ,i am playing cricket ,no,i feel pain in my leg recently but now i am fine  i am playing cricket  no,1,0.679892016317446,2025-05-22 16:41:25
+i feel pain in my leg recently but now i am fine ,i am playing cricket ,no,i feel pain in my leg recently but now i am fine  i am playing cricket  no,1,0.679892016317446,2025-05-22 16:41:31
+i am feeling relaxed,yes,no,i am feeling relaxed yes no,0,0.49058951823479025,2025-05-22 17:28:28
+worst,yes,yes,worst yes yes,0,0.4012014745482361,2025-05-22 17:28:58
+sasa,yes,yes,sasa yes yes,0,0.3406440930762132,2025-05-22 17:29:29
+sasa,,yes,sasa  yes,0,0.3406440930762132,2025-05-22 17:29:34
+sasa,,,sasa,0,0.42719177397434716,2025-05-22 17:29:38
+overwhelmed,"i'm stressed about family expectation
+","i am worried about final project
+","overwhelmed i'm stressed about family expectation
+ i am worried about final project",1,0.5978954447327882,2025-05-23 15:19:01
+overwhelmed,family expectations,final ptoject,overwhelmed family expectations final ptoject,0,0.4970149691886653,2025-05-23 15:21:08
