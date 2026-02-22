@@ -1,0 +1,7 @@
+pandas
+os
+datetime
+scikit-learn
+streamlit
+textblob
+wordcloud
